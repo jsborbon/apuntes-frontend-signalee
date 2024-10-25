@@ -1,0 +1,2 @@
+git init -> sirve para iniciar un repositorio nuevo
+git add . ->sirve para agregar los archivos a un commit
